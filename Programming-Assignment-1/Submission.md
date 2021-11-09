@@ -15,7 +15,7 @@ Data is extracted from [NASA GISTEMP Table Data: Global and Hemispheric Monthly 
 This graph visualizes the GISTEMP data for the Globe and the North and South Hemispheres through all the given years. The Blue line describes the data for the Northern Hemisphere, the Red for the Southern Hemisphere, and the Yellow Dashed line is for the Globe.
 
 1. What are your X and Y axes?
-   * Answer: X is the years since 1880 to 2014 with 10 year steps; Y is the temperature deviation with 20 C steps.
+   * Answer: X is the years since 1880 to 2014 with 10 year steps; Y is the temperature deviation with 20 F steps.
 2. Did you use a subset of the data? If so, what was it?
    * Answer: Yes, I only used the first 3 columns of file ExcelFormattedGISTEMPData2CSV.csv.
 3. Are there any particular aspects of your visualization to which you would like to bring attention?
