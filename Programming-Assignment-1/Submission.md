@@ -12,15 +12,17 @@ Data is extracted from [NASA GISTEMP Table Data: Global and Hemispheric Monthly 
 ## Submission
 ![Image of Global Annual Mean Temperature Difference](https://github.com/NikosMav/Data-Visualization/blob/0e4ea326b19718227c19c2cf944d364d5ea5802c/Programming-Assignment-1/temp_deviation.png)
 
-This graph visualizes the GISTEMP data for the Globe and the North and South Hemispheres through all the given years. The Green line describes the data for the Northern Hemisphere, the Red for the South Hemisphere, and the Green line is for the Globe.
+This graph visualizes the GISTEMP data for the Globe and the North and South Hemispheres through all the given years. The Blue line describes the data for the Northern Hemisphere, the Red for the Southern Hemisphere, and the Yellow Dashed line is for the Globe.
 
 1. What are your X and Y axes?
-   * Answer: X is the years since 1880 to 2014; Y is the temperature deviation in 0.01 C.
+   * Answer: X is the years since 1880 to 2014 with 10 year steps; Y is the temperature deviation with 20 C steps.
 2. Did you use a subset of the data? If so, what was it?
    * Answer: Yes, I only used the first 3 columns of file ExcelFormattedGISTEMPData2CSV.csv.
 3. Are there any particular aspects of your visualization to which you would like to bring attention?
-   * Answer: Global warming is a fact, go green people :)
+   * Answer: The Dashed line for the Global temperatures, which differentiates itself from the Nothern and Southern Hemisphere temperatures. The resulting visual representation makes it easier for the viewer to understand the graph and the data.
 4. What do you think the data, and your visualization, shows?
-   * Answer: This work is a reproduce of Sample Submission 2 with minor fix. Hope next time with more knowledge learned from this course, I can create better and creative visualization. 
+   * Answer: This graph visualizes the GISTEMP data for the Globe and the North and South Hemispheres through all the given years ( 1880 - 2014 ). The Blue line describes the data for the Northern Hemisphere, the Red for the Southern Hemisphere, and the Yellow Dashed line is for the Globe.
+
+From the resulting graph, although there is a decrease during 19th century, we can see that the overall trend of global temperature is increasing.
 
 ## Thank you for your time :)
