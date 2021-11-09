@@ -21,8 +21,6 @@ This graph visualizes the GISTEMP data for the Globe and the North and South Hem
 3. Are there any particular aspects of your visualization to which you would like to bring attention?
    * Answer: The Dashed line for the Global temperatures, which differentiates itself from the Nothern and Southern Hemisphere temperatures. The resulting visual representation makes it easier for the viewer to understand the graph and the data.
 4. What do you think the data, and your visualization, shows?
-   * Answer: This graph visualizes the GISTEMP data for the Globe and the North and South Hemispheres through all the given years ( 1880 - 2014 ). The Blue line describes the data for the Northern Hemisphere, the Red for the Southern Hemisphere, and the Yellow Dashed line is for the Globe.
+   * Answer: This graph visualizes the GISTEMP data for the Globe and the North and South Hemispheres through all the given years ( 1880 - 2014 ). The Blue line          describes the data for the Northern Hemisphere, the Red for the Southern Hemisphere, and the Yellow Dashed line is for the Globe.
 
-From the resulting graph, although there is a decrease during 19th century, we can see that the overall trend of global temperature is increasing.
-
-## Thank you for your time :)
+     From the resulting graph, although there is a decrease during 19th century, we can see that the overall trend of global temperature is increasing.
